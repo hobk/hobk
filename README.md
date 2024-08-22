@@ -5,9 +5,9 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-JavaScript-007396?style=flat-square&logo=javascript&logoColor=ffffff)](https://www.javascript.com/)
-[![](https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=vuejs&logoColor=ffffff)](https://vuejs.org/)
-[![](https://img.shields.io/badge/-Nodejs-f05032?style=flat-square&logo=node&logoColor=ffffff)](https://golang.org/)
-[![](https://img.shields.io/badge/Shell-f05032?style=flat-square&logo=powershell&logoColor=ffffff)](https://www.shell.com/)
+[![](https://img.shields.io/badge/-Vue-42B883?style=flat-square&logo=vuedotjs&logoColor=ffffff)](https://vuejs.org/)
+[![](https://img.shields.io/badge/-Nodejs-417E38?style=flat-square&logo=nodedotjs&logoColor=ffffff)](https://golang.org/)
+[![](https://img.shields.io/badge/Shell-f05032?style=flat-square&logo=termius&logoColor=ffffff)](https://www.shell.com/)
 
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
